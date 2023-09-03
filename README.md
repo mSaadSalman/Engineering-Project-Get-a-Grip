@@ -8,7 +8,7 @@ Design a computer program by using python that interfaces with the Quanser Inter
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
 
-<img width="337" alt="Industry-4 0-App-Poster" src="https://github.com/mSaadSalman/Engineering-Project-Get-a-Grip/assets/105026161/b08c0347-976d-4580-b623-c40ca4828d4f">
+![Industry-4 0-App-Poster](https://github.com/mSaadSalman/Engineering-Project-Get-a-Grip/assets/105026161/6fe1bb66-2e63-4560-be82-b96825e2e398)
 
 ---
 ## Description
