@@ -34,7 +34,7 @@ Key Features
 - Data Visualization: Matplotlib and other data visualization libraries are used to create informative graphs and charts.
 - Data Logging: The project incorporates data logging libraries to save and manage sensor data efficiently.
 - User Interface Design: The interface is designed for simplicity and effectiveness, ensuring that users can interact with the emulators effortlessly.
-- The Sensor Interface Project is a valuable resource for researchers, students, and professionals working with sensor technology. It offers a comprehensive solution for interfacing with muscle sensor emulators and empowers users to explore, analyze, and experiment with sensor data in real time.
+The Sensor Interface Project is a valuable resource for researchers, students, and professionals working with sensor technology. It offers a comprehensive solution for interfacing with muscle sensor emulators and empowers users to explore, analyze, and experiment with sensor data in real time.
 
 Explore the project and unlock the potential of sensor technology with the Sensor Interface Project.
 
